@@ -1,4 +1,5 @@
-#What is a Zero Day?
+# What is a Zero Day?
+
 The term “zero-day” refers to a newly discovered software vulnerability. Because the developer has just learned of the flaw, it also means an official patch or update to fix the issue hasn't been released. ... But the software vendor may fail to release a patch before hackers manage to exploit the security hole.
 
 ## What makes a vulnerability Zero day?
